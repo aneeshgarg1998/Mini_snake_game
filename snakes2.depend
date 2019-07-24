@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1563887004 source:c:\users\mahesh gupta\desktop\aneesh_project\snakes2\main.cpp
+	<bits/stdc++.h>
+	<iostream>
+	<conio.h>
+
